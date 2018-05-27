@@ -12,8 +12,8 @@ Here are the takeaways from this lesson:
 
 Here are links for:
 
-[My blog post](add link)
+[My blog post](http://yongclee.com/ajax-type-ahead/)
 
 [Codepen](https://codepen.io/whyohengee/pen/bMOpma)
 
-[Github Pages]()
+[Github Pages](https://whyohengee.github.io/ajaxtypeahead/)
